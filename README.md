@@ -18,7 +18,7 @@
 
 ## Highlighted Repositories
 
-### 1. QuickFix
+### 1. QuickFix || Online Mechanics Hub
 - GitHub: [rkathayat/QuickFix](https://github.com/rkathayat/QuickFix)
 - License: MIT
 - Public repository
